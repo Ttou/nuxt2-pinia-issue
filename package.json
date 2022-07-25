@@ -1,0 +1,18 @@
+{
+  "name": "nuxt2-pinia-issue",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.3.0",
+    "core-js": "^3.19.3",
+    "nuxt-edge": "latest",
+    "vue": "^2.7.0"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@latest"
+  }
+}
